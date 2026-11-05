@@ -1,0 +1,4 @@
+[project]
+name = "ai-fp8-simulator"
+version = "0.1.0"
+description = "Simulates 8-bit floating-point formats used in modern deep learning accelerators (H100/Blackwell)."
